@@ -3,11 +3,15 @@
     width: 150px;
     height:150px;
     background: deepskyblue;
+    transition: all 2.5s;
+    /*transition: left 2.5s;*/
 
 }
 
 .firstDiv:hover {
 
     width: 400px;
-    
+    height: 400px;
+    background-color: magenta;
+
 }
